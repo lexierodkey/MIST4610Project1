@@ -5,7 +5,7 @@ Sp24_61608_Group1
 
 ## Team Members:
 - Dylan Palenik: [@DylanPalenik](https://github.com/dylanpalenik)
-- Aakash Dholakia:
+- Aakash Dholakia:[@AakashDholakia](https://github.com/AakashDholakia)
 - Dan Kerik: 
 - Hayley Daniels: [@hayleydaniels](https://github.com/hayleydaniels)
 - Jordan Beal: 
