@@ -1,7 +1,7 @@
 # MIST4610Project1
 
 ## Team Name: 
-# Sp24_61608_Group1
+Sp24_61608_Group1
 
 ## Team Members:
 - Dylan Palenik: [@DylanPalenik](https://github.com/dylanpalenik)
