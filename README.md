@@ -6,9 +6,9 @@ Sp24_61608_Group1
 ## Team Members:
 - Dylan Palenik: [@DylanPalenik](https://github.com/dylanpalenik)
 - Aakash Dholakia:[@AakashDholakia](https://github.com/AakashDholakia)
-- Dan Kerik: 
+- Dan Kerik:[@dan-kerik](https://github.com/dan-kerik)
 - Hayley Daniels: [@hayleydaniels](https://github.com/hayleydaniels)
-- Jordan Beal: 
+- Jordan Beal: [@JordanBeal](https://github.com/Jlb65166)
 - Lexie-Anne Rodkey: [@LexieRodkey](https://github.com/lexierodkey)
 
 ## Problem Description
