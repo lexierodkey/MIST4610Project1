@@ -72,7 +72,32 @@ Picture to data model:
 
 
 ## Queries: 
+![image](https://github.com/lexierodkey/MIST4610Project1/assets/149977033/c1b71730-e410-4eda-8d89-61edf556de41)
+
+![image](https://github.com/lexierodkey/MIST4610Project1/assets/149977033/a9820dba-a7ce-4ca1-a1f1-93dde05ce8fe)
+
+![image](https://github.com/lexierodkey/MIST4610Project1/assets/149977033/8e81211a-cf49-4e0b-b4e6-bdb682cf8e8e)
+
+![image](https://github.com/lexierodkey/MIST4610Project1/assets/149977033/05dfac0b-1a24-466c-95a0-3a0f49659176)
+
+![image](https://github.com/lexierodkey/MIST4610Project1/assets/149977033/fa0699af-c63a-4cdb-8110-43dc3a732da6)
+
+![image](https://github.com/lexierodkey/MIST4610Project1/assets/149977033/9137761c-79ae-447f-8978-2102d4dc6d20)
+
+![image](https://github.com/lexierodkey/MIST4610Project1/assets/149977033/e5a96854-1bee-4332-8f3e-29ce48f56fb0)
+
+![image](https://github.com/lexierodkey/MIST4610Project1/assets/149977033/c522056f-7a07-40dd-ba91-a5663709ef62)
+
+![image](https://github.com/lexierodkey/MIST4610Project1/assets/149977033/711af7c3-888c-48d4-83e3-60c5febb8251)
+
+![image](https://github.com/lexierodkey/MIST4610Project1/assets/149977033/ad9da369-16ba-408f-91e9-02bc8af5e1c0)
+
+![image](https://github.com/lexierodkey/MIST4610Project1/assets/149977033/70ace227-61dd-428b-83a4-e58be21d9b45)
+
+![image](https://github.com/lexierodkey/MIST4610Project1/assets/149977033/cdd17f12-c0ef-4a96-b8b0-aa247678f079)
+
 
 ## Database information: 
 Name of database: ns_Sp24_61608_Group1
 
+Additional Information: Each query above is in the database using stored procedures which can be called upon using the following format: CALL TP_Q1();
