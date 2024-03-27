@@ -82,8 +82,6 @@ Picture to data model:
 
 ![image](https://github.com/lexierodkey/MIST4610Project1/assets/149977033/9137761c-79ae-447f-8978-2102d4dc6d20)
 
-![image](https://github.com/lexierodkey/MIST4610Project1/assets/149977033/e5a96854-1bee-4332-8f3e-29ce48f56fb0)
-
 ![image](https://github.com/lexierodkey/MIST4610Project1/assets/149977033/c522056f-7a07-40dd-ba91-a5663709ef62)
 
 ![image](https://github.com/lexierodkey/MIST4610Project1/assets/149977033/711af7c3-888c-48d4-83e3-60c5febb8251)
